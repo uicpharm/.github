@@ -6,9 +6,11 @@ access them. However, some of our projects, listed below, are provided open-sour
 
 ## Moodle
 
-- [mdl](https://github.com/uicpharm/mdl#readme)
+- [Moodle CLI: mdl](https://github.com/uicpharm/mdl#readme)
   [📝](https://mdl.docs.uicpharm.dev)  
   CLI for managing containerized Moodle environments.
+- [Moodle Image](https://github.com/uicpharm/moodle#readme)  
+  Image for using Moodle with Docker/Podman, hosted on ghcr.io.
 - [Plugin: Lesson Remaining Time](https://github.com/uicpharm/moodle-block_lesson_remaining_time)
   [📝](https://remainingtime.docs.uicpharm.dev)  
   Block that shows remaining time of a lesson with a time requirement.
