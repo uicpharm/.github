@@ -4,20 +4,6 @@ This is the source code supporting projects and web properties of UIC College of
 Most of our projects are only internally accessible. Please login with your UIC account to
 access them. However, some of our projects, listed below, are provided open-source.
 
-## Moodle
-
-- [Moodle CLI: mdl](https://github.com/uicpharm/mdl#readme)
-  [📝](https://mdl.docs.uicpharm.dev)  
-  CLI for managing containerized Moodle environments.
-- [Moodle Image](https://github.com/uicpharm/moodle#readme)  
-  Image for using Moodle with Docker/Podman, hosted on ghcr.io.
-- [Plugin: Lesson Remaining Time](https://github.com/uicpharm/moodle-block_lesson_remaining_time)
-  [📝](https://remainingtime.docs.uicpharm.dev)  
-  Block that shows remaining time of a lesson with a time requirement.
-- [Plugin: Course Visibility](https://github.com/uicpharm/moodle-local_coursevis)
-  [📝](https://coursevis.docs.uicpharm.dev)  
-  Automate the showing/hiding of courses based on start/end times.
-
 ## Development Standards and Infrastructure
 
 - [Standardization](https://github.com/uicpharm/standardization#readme)  
@@ -31,3 +17,17 @@ access them. However, some of our projects, listed below, are provided open-sour
 - [VitePress Template](https://github.com/uicpharm/vitepress-theme#readme)
   [📝](https://vitepress-theme.docs.uicpharm.dev)  
   Theming and customizations for our documentation sites.
+
+## Moodle
+
+- [Moodle CLI: mdl](https://github.com/uicpharm/mdl#readme)
+  [📝](https://mdl.docs.uicpharm.dev)  
+  CLI for managing containerized Moodle environments.
+- [Moodle Image](https://github.com/uicpharm/moodle#readme)  
+  Image for using Moodle with Docker/Podman, hosted on ghcr.io.
+- [Plugin: Lesson Remaining Time](https://github.com/uicpharm/moodle-block_lesson_remaining_time)
+  [📝](https://remainingtime.docs.uicpharm.dev)  
+  Block that shows remaining time of a lesson with a time requirement.
+- [Plugin: Course Visibility](https://github.com/uicpharm/moodle-local_coursevis)
+  [📝](https://coursevis.docs.uicpharm.dev)  
+  Automate the showing/hiding of courses based on start/end times.
